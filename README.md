@@ -1,116 +1,169 @@
-# Hi there, I'm Bhanu Pratap 👋
+<div align="center">
 
-```
-> building things that matter, one commit at a time
-```
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bhanu+Pratap+%F0%9F%91%8B;MERN+Stack+Developer;Android+Developer+%7C+Kotlin;Building+things+that+matter...)
 
-## 🧠 About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=bhanupratap9999&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/bhanupratap9999)
+[![GitHub followers](https://img.shields.io/github/followers/bhanupratap9999?label=Followers&style=flat-square&color=0e75b6)](https://github.com/bhanupratap9999?tab=followers)
 
-| | |
-|---|---|
-| 🎓 | B.Tech Computer Science (2023–2027) |
-| 💻 | Full Stack Developer — MERN + Next.js + PHP |
-| 🤖 | Building AI-powered apps — GenAI · Voice AI · Automation |
-| 📱 | Android Developer — Jetpack Compose + Kotlin |
-| 👨‍🏫 | Mentored **250+ students** in DSA & Web Dev |
-| 🔥 | Passionate about scalable systems & real-world products |
+</div>
 
 ---
 
-## 📊 By the numbers
+## 🧠 About Me
 
-| 500+ | 250+ |
-|:---:|:---:|
-| DSA problems solved (LeetCode) | Students mentored |
+```javascript
+const bhanupratap = {
+  name: "Bhanu Pratap Singh",
+  education: "B.Tech Computer Science @ LPU (2023–2027)",
+  roles: ["Full Stack Developer", "Android Developer", "AI/ML Enthusiast"],
+  techStack: {
+    frontend:  ["React", "Next.js", "Tailwind CSS"],
+    backend:   ["Node.js", "Express.js", "PHP"],
+    mobile:    ["Kotlin", "Jetpack Compose", "Firebase"],
+    database:  ["MongoDB", "MySQL"],
+    ai:        ["GenAI", "Voice AI", "Automation"],
+    devops:    ["Docker", "Git", "GitHub Actions"]
+  },
+  currentFocus: "Building AI-powered full-stack & Android apps",
+  funFact: "I've mentored 250+ students in DSA & Web Dev 🚀"
+};
+```
+
+---
+
+## 🏆 By The Numbers
+
+<div align="center">
+
+| 🧩 500+ | 👨‍🏫 250+ | 📱 Android Apps | 🌐 Full-Stack Projects |
+|:---:|:---:|:---:|:---:|
+| DSA Problems Solved | Students Mentored | Jetpack Compose + Kotlin | MERN + Next.js + PHP |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+### 🌐 Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### 📱 Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+
+### 🤖 AI & DevOps
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## 🔗 Featured Projects
+## 🚀 Featured Projects
 
-### [Project 1: Full Stack Application]
-- **Description:** Building scalable web applications with modern tech stack
-- **Tech Stack:** React, Next.js, Node.js, MongoDB, Docker
-- **Highlights:** Real-time features, optimized performance, production-ready
-- [🔗 View Repository](https://github.com/bhanupratap9999/project-name)
+### 🏥 [Hospital Locator](https://github.com/bhanupratap9999/hospital-locator)
+> Find nearby hospitals quickly with location-based search
+- **Tech Stack:** HTML, CSS, JavaScript, Maps API
+- **Highlights:** Real-time location detection, clean UI, fast search
+- ⭐ Public Repository
 
-### [Project 2: AI-Powered Application]
-- **Description:** GenAI/Voice AI integration for automation
-- **Tech Stack:** Python, Next.js, APIs, ML Models
-- **Highlights:** AI integration, voice processing, automation workflows
-- [🔗 View Repository](https://github.com/bhanupratap9999/project-name)
+---
 
-### [Project 3: Android App]
-- **Description:** Mobile application with Jetpack Compose
+### 🏢 [Placify Portal](https://github.com/bhanupratap9999/placifyportal)
+> Placement preparation & job portal platform
+- **Tech Stack:** JavaScript, Node.js, MongoDB
+- **Highlights:** Student-focused features, job listings, dashboard
+
+---
+
+### 🤖 [AI-Powered Application]
+> GenAI & Voice AI integration for automation workflows
+- **Tech Stack:** Python, Next.js, OpenAI APIs, ML Models
+- **Highlights:** Voice processing, automation, real-time responses
+- 🔗 *Link your repo here*
+
+---
+
+### 📱 [Android App — Jetpack Compose]
+> Modern Android application with clean architecture
 - **Tech Stack:** Kotlin, Jetpack Compose, Firebase
 - **Highlights:** Modern UI, responsive design, seamless UX
-- [🔗 View Repository](https://github.com/bhanupratap9999/project-name)
+- 🔗 *Link your repo here*
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanupratap9999&show_icons=true&theme=radical&include_all_commits=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanupratap9999&layout=compact&theme=radical)
+![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanupratap9999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=bhanupratap9999&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanupratap9999&layout=compact&theme=tokyonight&hide_border=true)
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=bhanupratap9999&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-## 🏆 Achievements
-
-- 🥇 **500+ LeetCode Problems** - Strong DSA foundation
-- 🥈 **Mentored 250+ Students** - Web Dev & DSA expertise
-- 🥉 **Built AI-Powered Products** - GenAI & Automation
-- ⭐ **Open Source Contributions** - Active community member
+</div>
 
 ---
 
-## 💡 Currently Learning
+## 🏅 Achievements
 
-- Advanced System Design & Microservices
-- Cloud Architecture (AWS, GCP)
-- Machine Learning & LLMs
-- DevOps & CI/CD pipelines
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-pratap-singh99/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thakurchotu63673@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bhanupratap9999)
-
----
-
-## 📚 Recent Blog Posts & Articles
-
-<!-- You can add links to your blog posts, dev.to articles, or medium articles here -->
+- 🥇 **500+ LeetCode Problems** — Strong DSA foundation
+- 👨‍🏫 **Mentored 250+ Students** — Web Dev & DSA expertise
+- 🤖 **Built AI-Powered Products** — GenAI & Voice Automation
+- 🌍 **Open Source Contributor** — Active community member
+- 📱 **Android Developer** — Production-ready Kotlin apps
 
 ---
 
 ## 🎯 Current Focus
 
-- Building production-grade full-stack applications
-- Contributing to open-source projects
-- Exploring AI/ML integration in web apps
-- Mentoring aspiring developers
+- 🔨 Building production-grade full-stack applications
+- 🤖 Exploring AI/ML integration in web & mobile apps
+- 📱 Developing polished Android apps with Jetpack Compose
+- 🌍 Contributing to open-source projects
+- 🧑‍🏫 Mentoring aspiring developers
 
 ---
 
-⭐ *Open to collabs, internships & interesting ideas. Let's build something real.*
+## 📚 Currently Learning
 
-**"Great code isn't written, it's crafted through iteration and passion."**
+- ⚙️ Advanced System Design & Microservices
+- ☸️ Kubernetes & Cloud Deployment (AWS/GCP)
+- 🧠 LangChain & Advanced GenAI workflows
+- 🔒 App Security & Performance Optimization
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanu-pratap-singh99)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanupratap9999)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/bhanupratap9999)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Open to collabs, internships & interesting ideas. Let's build something real.**
+
+*"Great code isn't written, it's crafted through iteration and passion."*
+
+</div>
